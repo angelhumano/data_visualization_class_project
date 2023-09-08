@@ -12,7 +12,7 @@ The U.S. has more immigrants than any other country in the world - and this insp
 ## Datasets
 
 ### Dataset 1: UN migrant stock data 
- - Table 1: International migrant stock at mid-year by sex and by region, country or area of destination and origin, 1990-2020. The estimates are based on official statistics on the foreign-born or the foreign population. This dataset is an Excel file of aggregated statistics. We extracted the country of origin, destination country, and migrant stock for 1990-2020. Refer to our Colab notebook to read our ETL. Source: https://www.un.org/development/desa/pd/content/international-migration-1 
+ - Table 1: International migrant stock at mid-year by sex and by region, country or area of destination and origin, 1990-2020. The estimates are based on official statistics on the foreign-born or the foreign population. This dataset is an Excel file of aggregated statistics. We extracted the country of origin, destination country, and migrant stock for 1990-2020. Source: https://www.un.org/development/desa/pd/content/international-migration-1 
  
 ### Dataset 2: World development indicators
 World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates. 
@@ -20,7 +20,10 @@ For our presentation, we extracted 47 indicators, 217 countries, and 32 years (1
 Source: https://databank.worldbank.org/source/world-development-indicators
 
 ## ETL 
-![ETL](images/ETL.png)
+Refer to the following to see the python code![notebook](https://colab.research.google.com/drive/1FWbX_sL6De_XxCjx1aOhbMhN-uh7Gp8h?usp=sharing)
+
+
+![ETL](images/ETL_diagram.png)
 
 ## Visualizations in Python
 
