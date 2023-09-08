@@ -1,4 +1,5 @@
 # Data Visualization Class Project
+By Gabriel Fernandez
 
 
 ## Project Objective
