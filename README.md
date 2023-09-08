@@ -1,13 +1,13 @@
 # Data Visualization Class Project
 
+
+## Project Objective
+The U.S. has more immigrants than any other country in the world - and this inspired our group to look into what causes people to migrate around the world. We looked into factors that included: GDP, education, life expectancy, crime rates, climate change, and so forth to get a better picture of why people move. We hope to bring more transparency to the topic of migration. 
+
  Individual contribution for data visualization final project: 
  
  - Data preprocessing and transformation
  - Visualizations in Python and Tableau
-
-
-## Project Objective
-The U.S. has more immigrants than any other country in the world - and this inspired our group to look into what causes people to migrate around the world. We looked into factors that included: GDP, education, life expectancy, crime rates, climate change, and so forth to get a better picture of why people move. We hope to bring more transparency to the topic of migration. Below I am sharing my contribution to this project.
 
 ## Datasets
 
