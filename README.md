@@ -5,9 +5,7 @@ By Gabriel Fernandez
 ## Project Objective
 The U.S. has more immigrants than any other country in the world - and this inspired our group to look into what causes people to migrate around the world. We looked into factors that included: GDP, education, life expectancy, crime rates, climate change, and so forth to get a better picture of why people move. We hope to bring more transparency to the topic of migration. 
 
-
-### Selected Indicators:
-For our project, I focused on two specific indicators to delve deeper into the migration phenomenon:
+### Individual contribution to our data visualization final project:
 
 - **Data Preparation and Transformation (ETL)**: I worked on getting our data in shape for analysis. This involved cleaning and organizing the data so that it made sense. I also created new variables to make the data more useful for our analysis.
 
