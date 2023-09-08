@@ -16,6 +16,7 @@ I selected two specific indicators to focus on:
 
 **Personal Remittances Received (% of GDP)**: I selected "Personal Remittances Received (% of GDP)" to explore the link between remittances and origin countries.
 
+In addition,I ensured that my visualization titles clearly conveyed the main points, making it easy to understand the key findings.
 
 ## Datasets
 
