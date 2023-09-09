@@ -2,18 +2,18 @@
 By Gabriel Fernandez
 
 
-### Project Bites
+### Project bites
 
-**Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators. Our objective was to unearth insights and convey them through impactful visualizations.
+**Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
 
-**Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remaining a primary destination, and the role of conflict in driving migration.
+**Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remains a primary destination, and the role of conflict in driving migration.
 
 **Tools**: Colab, Python, Tableau 
 
 **Concepts**: ETL (Extract, Transform, Load) and charts (Sankey, Slope, Heatmap, Line, and Scatterplot)
 
 
-### Project Objective
+### Project objective
 
 The United States has more immigrants than any other country, which inspired our group to look into what causes people to migrate across the globe. We looked into factors that included GDP, education, life expectancy, crime rates, climate change, and so forth to understand better why people move. We hope to bring more transparency to the topic of migration. 
 
@@ -24,13 +24,13 @@ The United States has more immigrants than any other country, which inspired our
 - **Creating Visualizations**: Using Python and Tableau, I crafted charts that helped me better understand the data and discover valuable insights.
 
 
-#### Selected Indicators
+#### Selected indicators
 
 In our project, I concentrated on two particular indicators to analyze their relationship with migration patterns:
 
-**Internally Displaced Persons (Number of People Displaced by Conflict and Violence)**: This indicator helped me understand the impact of conflict and violence on migration.
+**Internally displaced persons (number of people displaced by conflict and violence)**: This indicator helped me understand the impact of conflict and violence on migration.
 
-**Personal Remittances Received (% of GDP)**: I selected "Personal Remittances Received (% of GDP)" to explore the link between remittances and origin countries.
+**Personal remittances received (% of GDP)**: I selected this indicator to explore the link between remittances and origin countries.
 
 
 #### Rationale for my visualization choices
@@ -43,7 +43,7 @@ I chose these visualizations for our project because they are effective in conve
 - **Line chart**: Depicts general migrant patterns.
 - **Scatterplot**: Examines the connection between two variables.
 
-In addition,I ensured that my visualization titles clearly conveyed the main points, making it easy to understand the key findings.
+In addition, I ensured that my visualization titles conveyed the main points, making it easy to understand the key findings.
 
 ### Datasets
 
