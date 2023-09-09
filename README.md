@@ -2,6 +2,17 @@
 By Gabriel Fernandez
 
 
+### Project Bites
+
+**Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators. Our objective was to unearth insights and convey them through impactful visualizations.
+
+**Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remaining a primary destination, and the role of conflict in driving migration.
+
+**Tools**: Colab, Python, Tableau 
+
+**Concepts**: ETL (Extract, Transform, Load) and charts (Sankey, Slope, Heatmap, Line, and Scatterplot)
+
+
 ### Project Objective
 
 The United States has more immigrants than any other country, which inspired our group to look into what causes people to migrate across the globe. We looked into factors that included GDP, education, life expectancy, crime rates, climate change, and so forth to understand better why people move. We hope to bring more transparency to the topic of migration. 
