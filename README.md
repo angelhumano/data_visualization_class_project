@@ -101,6 +101,10 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 ### Lessons learned
 
+- Cross-country migration is a complex and ever-changing phenomenon impacting numerous countries globally. UN estimates, though valuable, may not encompass the complete data due to challenges in data collection, especially when new countries emerge, as seen after the fall of the Soviet Union.
+
+- Given events like the COVID-19 pandemic and emerging conflicts, UN data, reported every five years, may not consistently depict current conditions. I look forward to examining the 2025 data to understand how the pandemic may have influenced global migration patterns.
+  
 - 
 
 
