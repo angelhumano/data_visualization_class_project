@@ -120,11 +120,6 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 - Tackling the UN's aggregated Excel tables can feel like solving a tricky puzzle. Working to transform them into a more user-friendly long format has been quite the learning adventure.
 
 
-:notebook_with_decorative_cover:
-:pencil2:
-:clipboard:
-:scroll:
-
 
 
  
