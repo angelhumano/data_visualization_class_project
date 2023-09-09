@@ -74,14 +74,15 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 - Mexico is the top source of migrants to the USA, with around 9.5 million total migrants from 1990 to 2020.
 
 <br>
+<br>
 
 ![Sankey plot 2](images/sankey_chart_2.png)
-
-<br>
 
 #### Insight:  
 - The USA is Mexico's leading migrant source (0.52 million), yet it receives 19 times more Mexican immigrants than it sends, indicating an immigration imbalance.
 
+<br>
+<br>
 
 #### Slope charts
 
