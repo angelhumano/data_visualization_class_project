@@ -34,9 +34,6 @@ In our project, I concentrated on two particular indicators to analyze their rel
 **Personal remittances received (% of GDP)**: I selected this indicator to explore the link between remittances and origin countries.
 
 
-#### Rationale for my visualization choices
-
-I chose these visualizations for our project because they are effective in conveying essential information about migrant stock and world indicators:
 
 - **Sankey chart**: Shows migration flow from origin to destination countries.
 - **Slope chart**: Highlights changes between two specific points in time.
@@ -68,10 +65,22 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 ### Visualizations in Python
 
-#### Sankey charts
+#### Sankey charts: Show migration flow from origin to destination countries
+
 ![Sankey plot 1](images/sankey_chart_1.png)
 
+#### Insight: 
+
+- Mexico is the top source of migrants to the USA, with around 9.5 million total migrants from 1990 to 2020.
+
+<br>
+
 ![Sankey plot 2](images/sankey_chart_2.png)
+
+<br>
+
+#### Insight:  
+- The USA is Mexico's leading migrant source (0.52 million), yet it receives 19 times more Mexican immigrants than it sends, indicating an immigration imbalance.
 
 
 #### Slope charts
