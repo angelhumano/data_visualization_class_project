@@ -6,7 +6,7 @@ By Gabriel Fernandez
 
 **Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
 
-**Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remains a primary destination, and the role of conflict in driving migration.
+**Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remaining a primary destination, and the role of violent conflict in driving migration.
 
 **Tools**: Colab, Python, Tableau 
 
