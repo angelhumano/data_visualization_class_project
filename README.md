@@ -1,11 +1,11 @@
 ## Data visualization class project :mag:
 By Gabriel Fernandez <br>
-Fall 2022
+Fall 2022 (Updated: Sept. 2023)
 
 
 ### Project bites :chocolate_bar:
 
-**Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
+**Brief**: Our project centered on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
 
 **Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remaining a primary destination, and the role of violent conflict in driving migration.
 
