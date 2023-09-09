@@ -1,20 +1,21 @@
-# Data Visualization Class Project
+## Data Visualization Class Project
 By Gabriel Fernandez
 
 
 ### Project Objective
-The U.S. has more immigrants than any other country in the world - and this inspired our group to look into what causes people to migrate around the world. We looked into factors that included: GDP, education, life expectancy, crime rates, climate change, and so forth to get a better picture of why people move. We hope to bring more transparency to the topic of migration. 
+
+The United States has more immigrants than any other country, which inspired our group to look into what causes people to migrate across the globe. We looked into factors that included GDP, education, life expectancy, crime rates, climate change, and so forth to understand better why people move. We hope to bring more transparency to the topic of migration. 
 
 #### Individual contribution to our data visualization final project:
 
-- **Data Preparation and Transformation (ETL)**: I worked on getting our data in shape for analysis. This involved cleaning and organizing the data so that it made sense. I also created new variables to make the data more useful for our analysis.
+- **Data Preparation and Transformation (ETL)**: I worked on getting our data ready for analysis, involving the extraction, cleaning, transformation, and merging of datasets.
 
-- **Creating Visualizations**: I used Python and Tableau to make various charts helped us understand the data better and share our findings.
+- **Creating Visualizations**: Using Python and Tableau, I crafted charts that helped me better understand the data and discover valuable insights.
 
 
 #### Selected Indicators
 
-In our project, I concentrated on two particular measures to gain a deeper understanding of migration:
+In our project, I concentrated on two particular indicators to analyze their relationship with migration patterns:
 
 **Internally Displaced Persons (Number of People Displaced by Conflict and Violence)**: This indicator helped me understand the impact of conflict and violence on migration.
 
@@ -30,8 +31,6 @@ I chose these visualizations for our project because they are effective in conve
 - **Heatmap**: Displays relationships involving multiple variables.
 - **Line chart**: Depicts general migrant patterns.
 - **Scatterplot**: Examines the connection between two variables.
-
-
 
 In addition,I ensured that my visualization titles clearly conveyed the main points, making it easy to understand the key findings.
 
