@@ -1,5 +1,6 @@
-## Data Visualization Class Project
+## Data visualization class project
 By Gabriel Fernandez
+Fall 2022
 
 
 ### Project bites
