@@ -1,9 +1,9 @@
-## Data visualization class project
+## Data visualization class project :mag:
 By Gabriel Fernandez <br>
 Fall 2022
 
 
-### Project bites
+### Project bites :chocolate_bar:
 
 **Brief**: Our project centers on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
 
