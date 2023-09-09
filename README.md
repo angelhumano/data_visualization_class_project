@@ -105,7 +105,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 - Given events like the COVID-19 pandemic and emerging conflicts, UN data, reported every five years, may not consistently depict current conditions. I look forward to examining the 2025 data to understand how the pandemic may have influenced global migration patterns.
   
-- 
+- Tackling the UN's aggregated Excel tables can feel like solving a tricky puzzle. Working to transform them into a more user-friendly long format has been quite the learning adventure.
 
 
 
