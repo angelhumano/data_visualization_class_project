@@ -65,14 +65,12 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 ### Slope charts
 
+<br>
+
 ![Slope chart 1](images/slope_chart_1.png)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
+ &emsp; 
+ 
 ![Slope chart 2](images/slope_chart_2.png)
 
 
