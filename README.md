@@ -14,7 +14,7 @@ Fall 2022
 **Concepts**: ETL (Extract, Transform, Load) and charts (Sankey, Slope, Heatmap, Line, and Scatterplot)
 
 
-### Project objective
+### Project objective :dart:
 
 The United States has more immigrants than any other country, which inspired our group to look into what causes people to migrate across the globe. We looked into factors that included GDP, education, life expectancy, crime rates, climate change, and so forth to understand better why people move. We hope to bring more transparency to the topic of migration. 
 
@@ -102,7 +102,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 ![Scatterplot](images/scatterplot.png)
 
 
-### Key insights
+### Key insights 💡
 
 
 - Reciprocal Migrant Flow: Mexico is the primary source of US migrants (9.5 average from 1990 to 2020), while the USA significantly contributes to Mexican migration (0.5 million), illustrating a reciprocal dynamic.
@@ -111,7 +111,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
   
 - Conflict Fuels Migration: War and internal conflict, such as in Syria and Iraq, fuel migrant outflows.
 
-### Lessons learned
+### Lessons learned ✨
 
 - Cross-country migration is a complex and ever-changing phenomenon impacting numerous countries globally. UN estimates, though valuable, may not encompass the complete data due to challenges in data collection, especially when new countries emerge, as seen after the fall of the Soviet Union.
 
@@ -119,6 +119,11 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
   
 - Tackling the UN's aggregated Excel tables can feel like solving a tricky puzzle. Working to transform them into a more user-friendly long format has been quite the learning adventure.
 
+
+:notebook_with_decorative_cover:
+:pencil2:
+:clipboard:
+:scroll:
 
 
 
