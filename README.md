@@ -92,7 +92,9 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 ## Key insights
 
 
-
+- Reciprocal Migrant Flow: Mexico is the primary source of US migrants (9.5 average from 1990 to 2020), while the USA significantly contributes to Mexican migration (0.5 million), illustrating a reciprocal dynamic.
+  
+- Migration Trends:In 2020, the USA continued as the primary destination for migrants since the 90s, while India overtook Russia as the leading migrant source, signifying a significant shift.
 
 
 
