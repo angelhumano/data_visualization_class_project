@@ -57,20 +57,34 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 ## Visualizations in Python
 
+### Sankey charts
 ![Sankey plot 1](images/sankey_chart_1.png)
 
 ![Sankey plot 2](images/sankey_chart_2.png)
 
+
+### Slope charts
+
 ![Slope chart 1](images/slope_chart_1.png)
+
+
 
 ![Slope chart 2](images/slope_chart_2.png)
 
 
 ## Visualizations in Tableau
 
+### Heatmap
 ![Heatmap](images/heatmap.png)
 
+
+### Line chart
+
 ![Line Chart](images/line_chart.png)
+
+
+
+### Scatterplot
 
 ![Scatterplot](images/scatterplot.png)
 
