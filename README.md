@@ -34,14 +34,14 @@ In our project, I concentrated on two particular indicators to analyze their rel
 **Personal remittances received (% of GDP)**: I selected this indicator to explore the link between remittances and origin countries.
 
 
-### Datasets
+## Datasets
 
 
-#### Dataset 1: UN migrant stock data 
+### Dataset 1: UN migrant stock data 
 
  Table 1: International migrant stock at mid-year by sex and by region, country or area of destination and origin, 1990-2020. The estimates are based on official statistics on the foreign-born or foreign population. This dataset is an Excel file of aggregated statistics. We extracted the country of origin, destination country, and migrant stock for 1990-2020. Source: https://www.un.org/development/desa/pd/content/international-migration-1 
  
-#### Dataset 2: World development indicators
+### Dataset 2: World development indicators
 
 World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available and includes national, regional, and global estimates. 
 For our presentation, we extracted 47 indicators, 217 countries, and 32 years (1990 - 2021). Then, I combined this data with the migrant stock data to create a master dataset to use in Tableau. Source: https://databank.worldbank.org/source/world-development-indicators
