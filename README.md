@@ -3,7 +3,7 @@ By Gabriel Fernandez <br>
 Fall 2022 (Updated: Sept. 2023)
 
 
-### Project bites :chocolate_bar:
+## Project bites :chocolate_bar:
 
 **Brief**: Our project centered on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
 
@@ -14,18 +14,18 @@ Fall 2022 (Updated: Sept. 2023)
 **Concepts**: ETL (Extract, Transform, Load) and charts (Sankey, Slope, Heatmap, Line, and Scatterplot)
 
 
-### Project objective :dart:
+## Project objective :dart:
 
 The United States has more immigrants than any other country, which inspired our group to look into what causes people to migrate across the globe. We looked into factors that included GDP, education, life expectancy, crime rates, climate change, and so forth to understand better why people move. We hope to bring more transparency to the topic of migration. 
 
-#### Individual contribution to our data visualization final project:
+## Individual contribution to our data visualization final project:
 
 - **Data Preparation and Transformation (ETL)**: I worked on getting our data ready for analysis, involving the extraction, cleaning, transformation, and merging of datasets.
 
 - **Creating Visualizations**: Using Python and Tableau, I crafted charts that helped me better understand the data and discover valuable insights.
 
 
-#### Selected indicators
+### Selected indicators
 
 In our project, I concentrated on two particular indicators to analyze their relationship with migration patterns:
 
@@ -46,15 +46,20 @@ In our project, I concentrated on two particular indicators to analyze their rel
 World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available and includes national, regional, and global estimates. 
 For our presentation, we extracted 47 indicators, 217 countries, and 32 years (1990 - 2021). Then, I combined this data with the migrant stock data to create a master dataset to use in Tableau. Source: https://databank.worldbank.org/source/world-development-indicators
 
-### ETL (Extract, Transform, Load)
+## ETL (Extract, Transform, Load)
+
+
 For a closer look at our ETL (Extract, Transform, Load) process, you can refer to the Python code available in our Colab notebook: [notebook_documented_ETL](https://colab.research.google.com/drive/1FWbX_sL6De_XxCjx1aOhbMhN-uh7Gp8h?usp=sharing)
 
+<br>
 
 ![ETL](images/ETL_diagram.png)
 
-### Visualizations in Python
+<br>
 
-#### Sankey charts: Show migration flow from origin to destination countries
+## Visualizations in Python
+
+### Sankey charts: Show migration flow from origin to destination countries
 
 ![Sankey plot 1](images/sankey_chart_1.png)
 
@@ -73,7 +78,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
 
-#### Slope charts: Highlight changes between two specific points in time
+### Slope charts: Highlight changes between two specific points in time
 
 ![Slope chart 1](images/slope_chart_1.png)
 
@@ -91,9 +96,9 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
   
-### Visualizations in Tableau
+## Visualizations in Tableau
 
-#### Heatmap: Displays relationships involving multiple variables
+### Heatmap: Displays relationships involving multiple variables
 ![Heatmap](images/heatmap.png)
 
 #### Insights: 
@@ -103,7 +108,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
 
-#### Line chart: Depicts general migrant patterns
+### Line chart: Depicts general migrant patterns
 
 ![Line Chart](images/line_chart.png)
 
@@ -114,7 +119,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
 
-#### Scatterplot: Examines the connection between two variables
+### Scatterplot: Examines the connection between two variables
 
 ![Scatterplot](images/scatterplot.png)
 
@@ -124,7 +129,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
 
-### Key insights :bulb:
+## Key insights :bulb:
 
 
 - Reciprocal Migrant Flow: Mexico is the primary source of US migrants (9.5 average from 1990 to 2020), while the USA significantly contributes to Mexican migration (0.5 million), illustrating a reciprocal dynamic.
