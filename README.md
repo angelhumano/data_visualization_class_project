@@ -75,10 +75,9 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 #### Slope charts: Highlight changes between two specific points in time
 
-
-
 ![Slope chart 1](images/slope_chart_1.png)
 
+#### Insight: 
 - The USA has been the primary destination for migrants in 2020 and has held this status since the 1990s.
   
 <br>
@@ -86,6 +85,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
  
 ![Slope chart 2](images/slope_chart_2.png)
 
+#### Insight: 
 - Back in 1990, Russia stood at the forefront as the primary supplier of migrants, but as we fast forward to 2020, India had taken over the top position.
 
 <br>
@@ -96,17 +96,29 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 #### Heatmap: Displays relationships involving multiple variables
 ![Heatmap](images/heatmap.png)
 
+#### Insight: 
+
+- The heatmap displays countries with significant immigrant contributions to their populations. It employs size to represent the migrant-to-population ratio and color to indicate remittances as a percentage of GDP. There is an expected correlation between migrant percentages and remittances. However, when sorting by total migrant stock, this association disappears because some countries with large migrant populations also have large overall populations, resulting in a proportionally smaller contribution of remittances to GDP.
+
+<br>
+<br>
 
 #### Line chart: Depicts general migrant patterns
 
 ![Line Chart](images/line_chart.png)
 
+#### Insight: 
 
+- We observe how internal conflicts, like warfare, affect migrant outflows in Syria and Iraq. Conflict onset significantly increases outflows, revealing its profound impact on migration dynamics.
+  
+<br>
+<br>
 
 #### Scatterplot: Examines the connection between two variables
 
 ![Scatterplot](images/scatterplot.png)
 
+- The chart shows the influence of internal conflicts on the number of people leaving a country. Countries like Syria, Afghanistan, and Ukraine have high levels of internal conflict, which in turn has led to a large number of people leaving, with values above the average reference line.
 
 ### Key insights :bulb:
 
