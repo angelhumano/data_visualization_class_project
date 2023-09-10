@@ -34,15 +34,6 @@ In our project, I concentrated on two particular indicators to analyze their rel
 **Personal remittances received (% of GDP)**: I selected this indicator to explore the link between remittances and origin countries.
 
 
-
-- **Sankey chart**: Shows migration flow from origin to destination countries.
-- **Slope chart**: Highlights changes between two specific points in time.
-- **Heatmap**: Displays relationships involving multiple variables.
-- **Line chart**: Depicts general migrant patterns.
-- **Scatterplot**: Examines the connection between two variables.
-
-In addition, I ensured that my visualization titles conveyed the main points, making it easy to understand the key findings.
-
 ### Datasets
 
 
@@ -57,8 +48,6 @@ For our presentation, we extracted 47 indicators, 217 countries, and 32 years (1
 
 ### ETL (Extract, Transform, Load)
 For a closer look at our ETL (Extract, Transform, Load) process, you can refer to the Python code available in our Colab notebook: [notebook_documented_ETL](https://colab.research.google.com/drive/1FWbX_sL6De_XxCjx1aOhbMhN-uh7Gp8h?usp=sharing)
-
-
 
 
 ![ETL](images/ETL_diagram.png)
@@ -84,30 +73,37 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 <br>
 <br>
 
-#### Slope charts
+#### Slope charts: Highlight changes between two specific points in time
 
 
 
 ![Slope chart 1](images/slope_chart_1.png)
 
-
+- The USA has been the primary destination for migrants in 2020 and has held this status since the 1990s.
+  
+<br>
+<br>
  
 ![Slope chart 2](images/slope_chart_2.png)
 
+- Back in 1990, Russia stood at the forefront as the primary supplier of migrants, but as we fast forward to 2020, India had taken over the top position.
 
+<br>
+<br>
+  
 ### Visualizations in Tableau
 
-#### Heatmap
+#### Heatmap: Displays relationships involving multiple variables
 ![Heatmap](images/heatmap.png)
 
 
-#### Line chart
+#### Line chart: Depicts general migrant patterns
 
 ![Line Chart](images/line_chart.png)
 
 
 
-#### Scatterplot
+#### Scatterplot: Examines the connection between two variables
 
 ![Scatterplot](images/scatterplot.png)
 
@@ -126,8 +122,13 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 - Cross-country migration is a complex and ever-changing phenomenon impacting numerous countries globally. UN estimates, though valuable, may not encompass the complete data due to challenges in data collection, especially when new countries emerge, as seen after the fall of the Soviet Union.
 
 - Given events like the COVID-19 pandemic and emerging conflicts, UN data, reported every five years, may not consistently depict current conditions. I look forward to examining the 2025 data to understand how the pandemic may have influenced global migration patterns.
+
+ - Crafting visualization titles that effectively convey the main point demands effort and creativity
   
 - Tackling the UN's aggregated Excel tables can feel like solving a tricky puzzle. Working to transform them into a more user-friendly long format has been quite the learning adventure.
+  
+
+
 
 
 
