@@ -5,7 +5,7 @@ Fall 2022 (Updated: Sept. 2023)
 
 ## Project bites :chocolate_bar:
 
-**Brief**: Our project centered on comprehending the drivers of global migration, with a specific emphasis on World Development Indicators (WDI). Our objective was to unearth insights and convey them through impactful visualizations.
+**Brief**: Our project centered around analyzing global migration drivers, with a particular focus on World Development Indicators (WDI). Our aim was to extract valuable insights and present them using impactful visualizations.
 
 **Key insights**: Notable findings include a reciprocal migrant flow between Mexico and the USA, the USA remaining a primary destination, and the role of violent conflict in driving migration.
 
@@ -124,7 +124,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 ![Scatterplot](images/scatterplot.png)
 
 #### Insights: 
-- The chart shows the influence of internal conflicts on the number of people leaving a country. Countries like Syria, Afghanistan, and Ukraine have high levels of internal conflict, which in turn has led to a large number of people leaving, with values above the average reference line.
+- The chart shows the influence of internal conflicts on the number of people leaving a country. Countries like Syria, Afghanistan, and Ukraine have high levels of internal conflict, values above the average reference lines, which has led to many people leaving.
 
 <br>
 <br>
@@ -144,7 +144,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 
 - Given events like the COVID-19 pandemic and emerging conflicts, UN data, reported every five years, may not consistently depict current conditions. I look forward to examining the 2025 data to understand how the pandemic may have influenced global migration patterns.
 
-- Crafting visualization titles that effectively convey the main point demands a blend of trial an error, creativity, and precision.
+- Crafting visualization titles that effectively convey the main point demands a blend of trial and error, creativity, and precision.
   
 - Tackling the UN's aggregated Excel tables can feel like solving a tricky puzzle. Working to transform them into a more user-friendly long format has been quite the learning adventure.
   
