@@ -138,7 +138,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
   
 - Conflict Fuels Migration: War and internal conflict, such as in Syria and Iraq, fuel migrant outflows.
 
-### Lessons learned :sparkles:
+## Lessons learned :sparkles:
 
 - Cross-country migration is a complex and ever-changing phenomenon impacting numerous countries globally. UN estimates, though valuable, may not encompass the complete data due to challenges in data collection, especially when new countries emerge, as seen after the fall of the Soviet Union.
 
