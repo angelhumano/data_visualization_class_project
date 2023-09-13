@@ -1,4 +1,4 @@
-## Data visualization class project :mag:
+## Embarking on a United Nations data journey for migration insights :mag:
 By Gabriel Fernandez <br>
 Fall 2022 (Updated: Sept. 2023)
 
