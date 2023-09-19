@@ -73,7 +73,7 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 ![Sankey plot 2](images/sankey_chart_2.png)
 
 #### Insights:  
-- The USA is Mexico's leading migrant source (0.52 million), yet it receives 19 times more Mexican immigrants than it sends, indicating an immigration imbalance.
+- The USA is Mexico's leading migrant source (0.52 million), yet it receives 19 times more Mexican immigrants than it sends, indicating an immigration imbalance. This disparity highlights a substantial difference between the number of individuals immigrating to the USA from Mexico and those immigrating to Mexico from the USA.
 
 <br>
 <br>
@@ -132,9 +132,9 @@ For a closer look at our ETL (Extract, Transform, Load) process, you can refer t
 ## Key insights :bulb:
 
 
-- Reciprocal Migrant Flow: Mexico is the primary source of US migrants (9.5 average from 1990 to 2020), while the USA significantly contributes to Mexican migration (0.5 million), illustrating a reciprocal dynamic.
-  
-- Migration Trends: In 2020, the USA continued as the primary destination for migrants since the 90s, while India overtook Russia as the leading migrant source, signifying a significant shift.
+-  Reciprocal Migrant Flow: Mexico is the primary source of US migrants (9.5 million on average from 1990 to 2020), while the USA significantly contributes to Mexican migration (0.5 million), illustrating a reciprocal dynamic—a situation where both countries play essential roles in each other's immigration patterns, resulting in an ongoing exchange of people between the two nations.
+
+- Migration Trends: In 2020, the USA continued as the primary destination for migrants since the 90s, while India overtook Russia as the leading migrant source, indicating a significant shift in global migration patterns. 
   
 - Conflict Fuels Migration: War and internal conflict, such as in Syria and Iraq, fuel migrant outflows.
 
